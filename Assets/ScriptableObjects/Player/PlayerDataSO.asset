@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cae306abc15590d4ba44f20b25d497f6, type: 3}
+  m_Name: PlayerDataSO
+  m_EditorClassIdentifier: Assembly-CSharp::Asteroids.PlayerDataSO
+  _forceFieldDuration: 5
+  _forceFieldDownTime: 5
+  _speed: 2
+  _speedTurnModifier: 2
+  _rotSpeed: 40
+  _shootMaxDistance: 25
+  _shootSpeed: 30
+  _shootFrequency: 0.5
+  _shootDamage: 50
+  _baseLives: 5
+  _safeViewportDistAroundPlayer: 0.75
+  _playerDistanceFromCamera: 30
+  _delayToEnablePlayer: 4

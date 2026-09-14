@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e15fbff4ef150df4aa22e3aa86211d2a, type: 3}
+  m_Name: AlienSO
+  m_EditorClassIdentifier: Assembly-CSharp::AlienDataSO
+  _baseHealth: 100
+  _baseSpeed: 6
+  _baseDamage: 6
+  _changeDirFrequency: 3
+  _shootingFrequency: 3
+  _shootMaxDistance: 100
+  _shootSpeed: 10
+  _chanceToFailChangingDirection: 0.7
+  _chanceToFailTargetPlayer: 0.7
+  _spawnDelay: 15
+  _disabledTimeAtStart: 5
+  _minSqrDistFromPlayerWhenSpawns: 200
+  _waveLevelModifier: 0.05
+  _baseChanceToFailToSpawn: 0.9
+  _poolNumberRange: {x: 10, y: 20}
+  _prefab: {fileID: -1714980714673287852, guid: 9cfd1b06ddf69ff4fa5a603a361ebc9d,
+    type: 3}
