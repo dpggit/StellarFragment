@@ -1,0 +1,14 @@
+Copyright (c) 2026 [Diego Pena Gayo]. All rights reserved.
+
+This repository and its contents are proprietary. 
+
+Permission is granted solely to recruitment teams, technical interviewers, and hiring managers 
+to download, clone, modify, and run this project locally for the sole purpose of evaluating 
+the author's professional skills, architecture (SOLID/MVC), and coding proficiency.
+
+STRICTLY PROHIBITED:
+- Any commercial or public use, deployment, or execution outside of local recruitment evaluation.
+- Distribution, publication, sublicensing, or selling of this codebase, its assets, or any modified versions of it.
+- Copying or extracting any part of this code, logic, or structure to be used in any external or derivative project.
+
+The code is provided "as is", without warranty of any kind.
