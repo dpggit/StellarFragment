@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\gameplay\\explosions\\explosiondataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\gameplay\\explosions\\explosiondataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroidsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroidsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroiddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroiddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\gameplay\\shoots\\shootdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\gameplay\\shoots\\shootdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\enemies\\aliens\\aliendata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\enemies\\aliens\\aliendata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroidsspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroidsspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroiddataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroiddataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroidinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroidinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroidsmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroidsmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\events\\shooteventchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\events\\shooteventchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|d:\\proyectosunity\\asteroidsgameandroid\\asteroidsgame\\assets\\scripts\\events\\newlevelreadyeventchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\events\\newlevelreadyeventchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\gameplay\\explosions\\explosiondataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\gameplay\\explosions\\explosiondataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\core\\systems\\gamesceneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +67,12 @@
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\systems\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACFBEF2C-BB00-3BAB-F3A4-7EF19708814F}|Assembly-CSharp-Editor.csproj|d:\\proyectosunity\\asteroidsgameandroid\\asteroidsgame\\assets\\editor\\addheadertoexistingscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACFBEF2C-BB00-3BAB-F3A4-7EF19708814F}|Assembly-CSharp-Editor.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\editor\\addheadertoexistingscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACFBEF2C-BB00-3BAB-F3A4-7EF19708814F}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\addheadertoexistingscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\gameplay\\explosions\\explosionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\gameplay\\explosions\\explosionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroidsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroidsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\player\\playerinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\enemies\\aliens\\aliensmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroidsmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroidsmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\enemies\\aliens\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\enemies\\aliens\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -81,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\enemies\\aliens\\alieninteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\enemies\\aliens\\alieninteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroidinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroidinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\player\\playerspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,10 +143,6 @@
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\gameplay\\shoots\\shootsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\gameplay\\shoots\\shootdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\gameplay\\shoots\\shootdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\gameplay\\shoots\\shootinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\gameplay\\shoots\\shootinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -139,28 +163,8 @@
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\enemies\\aliens\\aliensattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroidsspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroidsspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroiddataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroiddataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\enemies\\aliens\\aliendataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\enemies\\aliens\\aliendataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroiddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroiddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\features\\asteroids\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\features\\asteroids\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\events\\shooteventchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\events\\shooteventchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65E644B1-3287-6674-EC08-F5D5C91D6FCA}|Assembly-CSharp.csproj|D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\assets\\scripts\\core\\utils\\checkobjectvisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,11 +182,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 40,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "NewLevelReadyEventChannel.cs",
+              "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Events\\NewLevelReadyEventChannel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Events\\NewLevelReadyEventChannel.cs",
+              "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Events\\NewLevelReadyEventChannel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Events\\NewLevelReadyEventChannel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T18:10:46.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AddHeaderToExistingScripts.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Editor\\AddHeaderToExistingScripts.cs",
               "RelativeDocumentMoniker": "Assets\\Editor\\AddHeaderToExistingScripts.cs",
@@ -190,12 +207,11 @@
               "RelativeToolTip": "Assets\\Editor\\AddHeaderToExistingScripts.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T16:47:56.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T16:47:56.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "CameraManager.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Core\\Systems\\CameraManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Systems\\CameraManager.cs",
@@ -203,12 +219,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Core\\Systems\\CameraManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T16:41:14.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T16:41:14.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "IEnemy.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Enemies\\IEnemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Enemies\\IEnemy.cs",
@@ -216,12 +231,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Features\\Enemies\\IEnemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T16:36:30.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T16:36:30.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Core\\Systems\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Systems\\GameManager.cs",
@@ -229,12 +243,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Core\\Systems\\GameManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T09:20:29.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T09:20:29.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "GameSceneService.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Core\\Systems\\GameSceneService.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Systems\\GameSceneService.cs",
@@ -242,12 +255,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Core\\Systems\\GameSceneService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T18:37:48.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-13T18:37:48.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AlienData.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Enemies\\Aliens\\AlienData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Enemies\\Aliens\\AlienData.cs",
@@ -260,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "Utils.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Core\\Utils\\Utils.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Utils\\Utils.cs",
@@ -272,19 +284,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "AsteroidsMovement.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidsMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Asteroids\\AsteroidsMovement.cs",
               "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidsMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Features\\Asteroids\\AsteroidsMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T17:58:01.222Z"
+              "WhenOpened": "2026-09-13T17:58:01.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "PlayerView.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Player\\PlayerView.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Player\\PlayerView.cs",
@@ -296,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "GameView.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Core\\Systems\\GameView.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Systems\\GameView.cs",
@@ -308,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "PlayerSpawn.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Player\\PlayerSpawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Player\\PlayerSpawn.cs",
@@ -320,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "PlayerForceField.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Player\\PlayerForceField.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Player\\PlayerForceField.cs",
@@ -332,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "PlayerInput.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Player\\PlayerInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Player\\PlayerInput.cs",
@@ -344,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "AlienInteractions.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Enemies\\Aliens\\AlienInteractions.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Enemies\\Aliens\\AlienInteractions.cs",
@@ -356,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "AliensMovement.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Enemies\\Aliens\\AliensMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Enemies\\Aliens\\AliensMovement.cs",
@@ -368,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Player\\PlayerMovement.cs",
@@ -380,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "AlienDataSO.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Enemies\\Aliens\\AlienDataSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Enemies\\Aliens\\AlienDataSO.cs",
@@ -392,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "ExplosionDataSO.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Explosions\\ExplosionDataSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\GamePlay\\Explosions\\ExplosionDataSO.cs",
@@ -400,12 +413,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Features\\GamePlay\\Explosions\\ExplosionDataSO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T16:29:42.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T16:29:42.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "ShootsSpawn.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootsSpawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootsSpawn.cs",
@@ -417,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "PlayerInteractions.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Player\\PlayerInteractions.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Player\\PlayerInteractions.cs",
@@ -429,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Player\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Player\\PlayerAttack.cs",
@@ -441,19 +453,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 6,
               "Title": "AsteroidDataSO.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidDataSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Asteroids\\AsteroidDataSO.cs",
               "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidDataSO.cs",
               "RelativeToolTip": "Assets\\Scripts\\Features\\Asteroids\\AsteroidDataSO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABiAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T14:47:50.736Z"
+              "WhenOpened": "2026-08-26T14:47:50.736Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "ExplosionsSpawn.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Explosions\\ExplosionsSpawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\GamePlay\\Explosions\\ExplosionsSpawn.cs",
@@ -465,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "ExplosionsManager.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Explosions\\ExplosionsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\GamePlay\\Explosions\\ExplosionsManager.cs",
@@ -477,31 +490,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 9,
               "Title": "ShootEventChannel.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Events\\ShootEventChannel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Events\\ShootEventChannel.cs",
               "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Events\\ShootEventChannel.cs",
               "RelativeToolTip": "Assets\\Scripts\\Events\\ShootEventChannel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-25T14:08:55.449Z"
+              "WhenOpened": "2026-08-25T14:08:55.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 5,
               "Title": "AsteroidsSpawn.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidsSpawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Asteroids\\AsteroidsSpawn.cs",
               "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidsSpawn.cs",
               "RelativeToolTip": "Assets\\Scripts\\Features\\Asteroids\\AsteroidsSpawn.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA8AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T23:00:49.99Z"
+              "WhenOpened": "2026-08-14T23:00:49.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "AliensManager.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Enemies\\Aliens\\AliensManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Enemies\\Aliens\\AliensManager.cs",
@@ -513,19 +528,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
               "Title": "AsteroidInteractions.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidInteractions.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Asteroids\\AsteroidInteractions.cs",
               "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidInteractions.cs",
               "RelativeToolTip": "Assets\\Scripts\\Features\\Asteroids\\AsteroidInteractions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T20:21:58.99Z"
+              "WhenOpened": "2026-08-13T20:21:58.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "AliensSpawn.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Enemies\\Aliens\\AliensSpawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Enemies\\Aliens\\AliensSpawn.cs",
@@ -537,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "ShootsManager.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootsManager.cs",
@@ -549,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "CheckObjectVisibility.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Core\\Utils\\CheckObjectVisibility.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Utils\\CheckObjectVisibility.cs",
@@ -561,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "ShootsMovement.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootsMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootsMovement.cs",
@@ -573,19 +589,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 2,
               "Title": "AsteroidData.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Asteroids\\AsteroidData.cs",
               "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidData.cs",
               "RelativeToolTip": "Assets\\Scripts\\Features\\Asteroids\\AsteroidData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T22:08:12.911Z"
+              "WhenOpened": "2026-08-12T22:08:12.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "ShootInteractions.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootInteractions.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootInteractions.cs",
@@ -597,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "AliensAttack.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Enemies\\Aliens\\AliensAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Enemies\\Aliens\\AliensAttack.cs",
@@ -609,19 +626,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 3,
               "Title": "ShootData.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootData.cs",
               "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootData.cs",
               "RelativeToolTip": "Assets\\Scripts\\Features\\GamePlay\\Shoots\\ShootData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T20:10:13.034Z"
+              "WhenOpened": "2026-08-12T20:10:13.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "Shoot.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\GamePlay\\Shoots\\Shoot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\GamePlay\\Shoots\\Shoot.cs",
@@ -633,19 +651,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 1,
               "Title": "Asteroid.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\Asteroid.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Asteroids\\Asteroid.cs",
               "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\Asteroid.cs",
               "RelativeToolTip": "Assets\\Scripts\\Features\\Asteroids\\Asteroid.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAABCAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T19:36:20.131Z"
+              "WhenOpened": "2026-08-12T19:36:20.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Alien.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Enemies\\Aliens\\Alien.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Enemies\\Aliens\\Alien.cs",
@@ -657,19 +676,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "AsteroidsManager.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Asteroids\\AsteroidsManager.cs",
               "ToolTip": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Asteroids\\AsteroidsManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Features\\Asteroids\\AsteroidsManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T19:05:53.079Z"
+              "WhenOpened": "2026-08-11T19:05:53.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "PlayerManager.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Player\\PlayerManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Player\\PlayerManager.cs",
@@ -681,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "PlayerDataSO.cs",
               "DocumentMoniker": "D:\\ProyectosUnity\\AsteroidsGameAndroid\\AsteroidsGame\\Assets\\Scripts\\Features\\Player\\PlayerDataSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Features\\Player\\PlayerDataSO.cs",

@@ -109,6 +109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4800f85cb1a44a5479248469a4427e12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _scoreEventChannel: {fileID: 11400000, guid: 0b0eaebbf33dacd43850dfda1b4a4fdb, type: 2}
 --- !u!114 &740841100497500644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -121,7 +122,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edf8dde1ec95c69458cef14d7beee3e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Asteroids.AsteroidData
-  _scoreEventChannel: {fileID: 11400000, guid: 0b0eaebbf33dacd43850dfda1b4a4fdb, type: 2}
 --- !u!114 &4715122808869997401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -187,7 +187,7 @@ PolygonCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 10.24, y: 10.24}
+    oldSize: {x: 5.12, y: 5.12}
     newSize: {x: 5.12, y: 5.12}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
